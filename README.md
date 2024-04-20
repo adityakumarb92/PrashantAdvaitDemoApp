@@ -8,4 +8,5 @@ To run the app, follow the steps underneath
 - Try downloading offline to see error messages.
 - Try downloading images that have already been downloaded to see caching in effect.
 
-![Image Grid](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/78fff588-12d1-4046-aef7-b29fb8a808c0)
+![Image Grid](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/674609c6-b569-4c4a-b36c-1fe0e42f6d31)
+
