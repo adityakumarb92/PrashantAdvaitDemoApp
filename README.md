@@ -10,3 +10,6 @@ To run the app, follow the steps underneath
 
 ![Image Grid](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/674609c6-b569-4c4a-b36c-1fe0e42f6d31)
 
+![First Screen](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/7d610c44-c65d-45a6-8799-67e4701dc94d)
+
+
