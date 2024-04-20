@@ -9,4 +9,5 @@ To run the app, follow the steps underneath
 - Try downloading images that have already been downloaded to see caching in effect.
 
 ![First Screen](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/66d3086a-00bd-436d-b0e9-3b50f0fe1b0d)
-![Image Grid](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/e527e9af-54ad-453b-8b26-1c161c58fccb)
+
+![Image Grid](https://github.com/adityakumarb92/PrashantAdvaitDemoApp/assets/14874773/78fff588-12d1-4046-aef7-b29fb8a808c0)
