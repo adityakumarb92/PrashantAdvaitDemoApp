@@ -86,15 +86,15 @@ class MainActivity : AppCompatActivity() {
                         CircularProgressIndicator()
                     } else if (loadError.value != null) {
                         // Display error message
-                        showErrorMessage(coroutineScope, snackbarHostState, loadError.value?:"Unknown error")
+                        showErrorMessage(coroutineScope, snackbarHostState, loadError.value ?: "Unknown error")
                     }
-                    else {
-                        //Load image grid
-                        LazyVerticalImageGrid(imageBitmaps)
-                    }
+                    //Load image grid
+                    LazyVerticalImageGrid(imageBitmaps)
                 }
                 FloatingActionButton(
-                    onClick = { pickPhotos() },
+                    onClick = {
+                        pickPhotos()
+                    },
                     modifier = Modifier
                         .align(Alignment.BottomEnd)
                         .padding(16.dp)
@@ -108,7 +108,7 @@ class MainActivity : AppCompatActivity() {
                     snackbar = { data ->
                         Snackbar(
                             snackbarData = data,
-                              modifier = Modifier.padding(16.dp)
+                            modifier = Modifier.padding(16.dp)
                         )
                     }
                 )
